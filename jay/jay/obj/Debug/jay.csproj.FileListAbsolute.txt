@@ -1,0 +1,13 @@
+C:\Users\C616_3\Desktop\jay\jay\bin\Debug\jay.exe.config
+C:\Users\C616_3\Desktop\jay\jay\bin\Debug\jay.exe
+C:\Users\C616_3\Desktop\jay\jay\bin\Debug\jay.pdb
+C:\Users\C616_3\Desktop\jay\jay\obj\Debug\jay.csprojResolveAssemblyReference.cache
+C:\Users\C616_3\Desktop\jay\jay\obj\Debug\MainWindow.baml
+C:\Users\C616_3\Desktop\jay\jay\obj\Debug\MainWindow.g.cs
+C:\Users\C616_3\Desktop\jay\jay\obj\Debug\App.g.cs
+C:\Users\C616_3\Desktop\jay\jay\obj\Debug\jay_MarkupCompile.cache
+C:\Users\C616_3\Desktop\jay\jay\obj\Debug\jay.g.resources
+C:\Users\C616_3\Desktop\jay\jay\obj\Debug\jay.Properties.Resources.resources
+C:\Users\C616_3\Desktop\jay\jay\obj\Debug\jay.csproj.GenerateResource.Cache
+C:\Users\C616_3\Desktop\jay\jay\obj\Debug\jay.exe
+C:\Users\C616_3\Desktop\jay\jay\obj\Debug\jay.pdb
